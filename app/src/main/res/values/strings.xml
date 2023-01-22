@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="assignment_project">Assignment project</string>
+    <string name="show_this_every_15min">show this every 15min</string>
+</resources>
